@@ -10,7 +10,7 @@ Bundle-Name: node-manager
 Created-By: Apache Maven Bundle Plugin
 Build-Jdk: 1.6.0_11
 Bundle-Version: 1.0.0.SNAPSHOT
-Bnd-LastModified: 1311957086762
+Bnd-LastModified: 1311957371214
 Bundle-ManifestVersion: 2
 Bundle-Description: carbon-parent
 Import-Package: org.apache.axis2.context;version="1.6.0.wso2v1",org.ap
